@@ -1,0 +1,22 @@
+{
+  "name": "constructor_flashcards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanmax75/Constructor_Flashcards.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanmax75/Constructor_Flashcards/issues"
+  },
+  "homepage": "https://github.com/vanmax75/Constructor_Flashcards#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
